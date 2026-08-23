@@ -1,0 +1,9 @@
+# macOS 本机生成文件
+.DS_Store
+
+# Obsidian 的设备界面状态，跨设备同步容易产生无意义冲突
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian 回收站
+.trash/
