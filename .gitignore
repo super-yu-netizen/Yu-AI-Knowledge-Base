@@ -5,5 +5,8 @@
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 
+# 社区插件的本机数据可能包含 API Key，默认不上传
+.obsidian/plugins/*/data.json
+
 # Obsidian 回收站
 .trash/
